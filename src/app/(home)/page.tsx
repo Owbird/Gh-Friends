@@ -1,5 +1,6 @@
+// @ts-nocheck
+// Temporal fix to the "react-vis-network-graph" declaration file
 "use client";
-
 import QueryBox from "@/components/QueryBox";
 import { IEdge, INetwork, INode, INodeEvent } from "@/interfaces/interfaces";
 import get_user from "@/utils/get_user";
